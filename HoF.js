@@ -1,4 +1,4 @@
-// square of elements os a list or array.
+// square of elements on a list or array.
 
 let num = [1,2,3,4,5]
 
