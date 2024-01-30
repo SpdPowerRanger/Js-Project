@@ -1,0 +1,15 @@
+body{
+    background: rgb(212, 255, 220);
+}
+
+.container{
+    background: pink;
+    display: flexbox;
+    text-align: center;
+    align-content: center;
+    
+}
+
+.list-items{
+    background: orange;
+}
