@@ -1,0 +1,47 @@
+body{
+    background: rgb(97, 138, 173);
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.box1{
+    color: white;
+    padding: 20px;
+    border-radius: 9px;
+    max-width: 150px;
+    border: 0.2cap;
+    border-style: dashed;
+    border-color: white;
+    height: 150px;
+}
+
+.box2{
+    color: white;
+    padding: 20px;
+    border-radius: 9px;
+    max-width: 150px;
+    border: 0.2cap;
+    border-style: dashed;
+    border-color: white;
+    height: 150px;
+}
+
+.box3{
+    color: white;
+    padding: 20px;
+    border-radius: 9px;
+    max-width: 150px;
+    border: 0.2cap;
+    border-style: dashed;
+    border-color: white;
+    height: 150px;
+}
+
