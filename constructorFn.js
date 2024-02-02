@@ -14,4 +14,4 @@ let car1 = new createCar('Cresta',"Toyota","White")
 
 console.log(car1)
 
-car1.drive()
+car1.drive() // method call.

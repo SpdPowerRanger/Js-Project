@@ -1,0 +1,20 @@
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(79, 88, 170);
+}
+
+.div1{
+    border: 2px;
+    border-style: dashed;
+    border-color: black;
+}
+
+.div2{
+    border: 1px;
+    border-style: dashed;
+    border-color: black;
+    
+}
