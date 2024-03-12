@@ -1,0 +1,16 @@
+*{
+    margin: none;
+}
+
+.nav-component{
+    display: flex;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li{
+    margin-left: 10px;
+}
